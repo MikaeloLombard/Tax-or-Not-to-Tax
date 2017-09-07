@@ -1,7 +1,7 @@
 
-#Calculate the total charge of an order plus taxes depending on the region.
-#As an example Canada is used.
-#Regions other than Canada and some provinces will not be taxed. 
+# Calculate the total charge of an order, plus taxes, depending on the region.
+# As an example Canada is used.
+# Regions other than Canada and some provinces will not be taxed. 
 
 startAgain = "yes"
 while startAgain == "yes":
